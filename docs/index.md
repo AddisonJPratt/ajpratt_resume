@@ -28,15 +28,23 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `Sept 2022 - Dec 2022`
 __Biostatistics Teachers Assistant__
 
-### Internships
+__Python__
+ - pandas, ggplot, sklearn, numpy, seaborn, altair
+ - machine learning
 
+__R__
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+- statistical tests
+- statistical models
+- ggplot, plotly
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+__SQL__
+
+__Data Science Society BYU-I__
+
+- Worked on Onsemi project scraping stock data from google and Yahoo Finance
+ 
+
 
 
 ## Service and Work History
@@ -46,9 +54,9 @@ __Math Tutor__, BYU-Idaho
 
 
 `2023-2025`
-__Service Missionary__, New Jersey
+__Service Missionary__, New Jersey/New York
 
-
+__Fluent in Spanish__
 
 <!-- ### Footer
 
